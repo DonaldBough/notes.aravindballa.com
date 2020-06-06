@@ -1,5 +1,5 @@
 {
-  "name": "@aravindballa/notes",
+  "name": "donalds-thought-place",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,13 +9,13 @@
     "clean": "gatsby clean"
   },
   "keywords": [],
-  "author": "Aravind Balla <bsaaravind@gmail.com> (https://aravindballa.com)",
+  "author": "Donald Bough <donaldbough@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "@tippyjs/react": "^4.0.2",
     "gatsby": "^2.20.36",
     "gatsby-plugin-postcss": "^2.2.4",
-    "gatsby-theme-andy": "^0.1.1",
+    "gatsby-theme-andy": "^0.1.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-helmet": "^6.0.0"

@@ -66,12 +66,13 @@ const BrainNote = ({ note }) => {
         <h1 className="my-4">{note.title}</h1>
         <MDXRenderer>{note.childMdx.body}</MDXRenderer>
       </div>
-      <div className="refs-box bg-indigo-100 text-gray-600 rounded-lg mb-4 p-4">
+      <div className="refs-box bg-gray-100 text-gray-600 rounded-lg mb-4 p-4">
         {referenceBlock}
         <p className="text-sm m-0">
-          If you think this note resonated, be it positive or negative, send me a{' '}
-          <a href="https://twitter.com/messages/compose?recipient_id=532906019">direct message</a>{' '}
-          on Twitter or an <a href="mailto:bsaaravind+notes@gmail.com">email</a> and we can talk.
+          If you thought this was interesting and want to talk more, feel free to reach out. Send an email to {' '}
+          <a href="mailto:donaldbough@gmail.com">donaldbough@gmail.com</a>{' '}
+          or <a href="https://twitter.com/messages/compose?recipient_id=401736911">a DM on Twitter</a>{' '}
+          and I'll get back soon.
         </p>
       </div>
     </MDXProvider>
