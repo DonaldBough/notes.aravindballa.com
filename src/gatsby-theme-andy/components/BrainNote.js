@@ -72,7 +72,7 @@ const BrainNote = ({ note }) => {
           If you thought this was interesting and want to talk more, feel free to reach out. Send an email to {' '}
           <a href="mailto:donaldbough@gmail.com">donaldbough@gmail.com</a>{' '}
           or <a href="https://twitter.com/messages/compose?recipient_id=401736911">a DM on Twitter</a>{' '}
-          and I'll get back soon.
+          and we'll chat soon.
         </p>
       </div>
     </MDXProvider>

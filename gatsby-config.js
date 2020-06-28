@@ -1,6 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Donald Bough's Thought Place`,
+    title: `Donald's Thought Place 💡`,
   },
-  plugins: ['gatsby-theme-andy', `gatsby-plugin-postcss`],
+  plugins: [
+    {
+      resolve: `gatsby-theme-andy`,
+      options: {
+        hideDoubleBrackets: true,
+      },
+    },
+    `gatsby-plugin-postcss`
+  ],
 };

@@ -9,11 +9,11 @@ Inspired by [Andy Matuschak](https://andymatuschak.org/), I've learned that writ
 I hope sharing these publicly will spark fun and interesting conversations in my existing friend group and anyone else out there. If something stands out, feel free to say hi. 👋      
       
 Here's my current top of mind:    
-- Co-founding GradGrid        
+- Co-founding [[GradGrid]]        
 - Software craftsmanship      
 - Entrepreneurship      
     
-✍ 📬️ Donald @ ([email](mailto:donaldbough@gmail.com), [Twitter](https://twitter.com/DonaldBough), [LinkedIn](https://www.linkedin.com/in/donaldbough/), [Github](http://github.com/DonaldBough/))    
+✍ 📬️ Donald @ ([donaldbough@gmail.com](mailto:donaldbough@gmail.com), [Twitter](https://twitter.com/DonaldBough), [LinkedIn](https://www.linkedin.com/in/donaldbough/), [Github](http://github.com/DonaldBough/))    
         
 ---        
  This website is [open source](https://github.com/DonaldBough/notes.aravindballa.com), forked from [here](https://github.com/aravindballa/notes.aravindballa.com). Theme made by the amazing [Aravind Balla](https://aravindballa.com).
