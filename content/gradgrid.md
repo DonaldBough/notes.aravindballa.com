@@ -4,7 +4,7 @@ title: GradGrid
 
 [GradGrid](https://www.gradgrid.org/) is a hometown centric networking platform that empowers hometowns by connecting natives with each other and local industries. 
 
-I'm currently thinking on the [[GradGrid Job Board]]
+I'm currently thinking on the [[GradGrid Job Board]].
 
 I've always been passionate about developing the tech scene in my hometown Jasper, Indiana. In high school I actually worked on a nonprofit called [[LEAF]] that taught STEM through project based learning. So when [Luke Hochgesang](https://www.linkedin.com/in/lukehochgesang) and [Noah Bawel](https://www.linkedin.com/in/noahbawel) brought the idea to me in the summer of 2018 I was all for it.
 

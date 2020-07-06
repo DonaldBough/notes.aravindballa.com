@@ -1,0 +1,22 @@
+---  
+title: Getting Your Website Discovered 🔎  
+---  
+- ## Beginning to End Simple Gameplan:
+    - Here’s the high level summary of steps to follow. Look in SEO Checklist from Weebly for details.
+        - Register a custom domain
+        - Do a brain dump of all relevant words for your business
+        - Make URLs more relevant
+    - __e.g. Going from SockStore.com/products to SockStore.com/socks. Bad, overspecific example is SockStore.com/YellowAndBlueSocks__
+        - Add relevant title tags and detailed meta descriptions for each page using [this preview tool](https://smartsearchmarketing.com/google-title-tag-serp-preview-tool). Tags and descripts are what Google search results displays.
+    - **Example description:**__. French Bulldogs For Sale in Indiana__
+    - **Example description:**__ As a top Indiana dog breeder with over 20 years of experience, we pride ourselves on having the cutest puppies around. View our adorable french bulldogs!__
+        - Add the summarizing words as meta tags.
+    - **Example meta keywords:**__ french bulldog, puppies, for sale, male, breeder, small, cute __
+        - Re-evaluate content per page. Add H1,H2,etc…
+        - Add call to action buttons, meta alt tag descriptions for each image. __Example image alt tag descriptions: Cream colored, perky dog smiling at the camera on a patch of grass__
+        - Check that each page clearly links to rest of website.
+- ## Other Detailed Guides:
+    - [Learning about SEO vocab](https://blog.hubspot.com/marketing/how-to-do-keyword-research-ht)
+    - [General SEO guide](https://www.weebly.com/seo). Useful outside Weebly.
+    - [General SEO checklist](https://www.weebly.com/seo/checklist). Again, useful outside Weebly.
+    - [Finding what keywords](https://monitorbacklinks.com/blog/seo/google-analytics-keyword-ranking) are used to find your website. Google Analytics specifically.

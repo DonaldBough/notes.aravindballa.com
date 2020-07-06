@@ -4,25 +4,11 @@
     <list default="true" id="9d04f825-6bfb-41fa-98a7-815ba93bfd53" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/conference.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/demo.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/hand-written-notes.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/how-i-built-this.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/ipad.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/learning-curve.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/note-taking.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/podcasts.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/react-india.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/second-brains.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/sites-inspired.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/travel.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/trek.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/tweet-lcp-quotes.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/using-calendars.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/workout.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/writing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/gradgrid-job-board.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/gradgrid-job-board.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/gradgrid.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/gradgrid.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/gatsby-theme-andy/components/BrainNote.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/gatsby-theme-andy/components/BrainNote.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gatsby-theme-andy/components/BrainNoteContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/gatsby-theme-andy/components/BrainNoteContainer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +36,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/images" />
+      <recent name="$PROJECT_DIR$/src/gatsby-theme-andy/components" />
+      <recent name="$PROJECT_DIR$/content" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -67,7 +60,9 @@
       <workItem from="1590887273270" duration="810000" />
       <workItem from="1591057328551" duration="5557000" />
       <workItem from="1591578330875" duration="1004000" />
-      <workItem from="1593297531378" duration="790000" />
+      <workItem from="1593297531378" duration="1049000" />
+      <workItem from="1593431353457" duration="272000" />
+      <workItem from="1593985551060" duration="5147000" />
     </task>
     <servers />
   </component>
@@ -75,6 +70,14 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="723" y="395" key="#Notifications" timestamp="1593431387198">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="723" y="395" key="#Notifications/0.0.1680.1050@0.0.1680.1050" timestamp="1593431387198" />
+    <state x="369" y="100" key="CommitChangelistDialog2" timestamp="1593990779396">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="369" y="100" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1593990779396" />
     <state width="1659" height="295" key="GridCell.Tab.0.bottom" timestamp="1591317088520">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -91,21 +94,21 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1659" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1591317088519" />
-    <state x="341" y="164" key="SettingsEditor" timestamp="1591578419384">
+    <state x="341" y="164" key="SettingsEditor" timestamp="1593431621872">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1591578419384" />
+    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1593431621872" />
     <state x="100" y="100" width="1480" height="850" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1590885285580">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="100" y="100" width="1480" height="850" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1590885285580" />
-    <state x="541" y="280" width="611" height="490" key="find.popup" timestamp="1593303065213">
+    <state x="541" y="280" width="611" height="490" key="find.popup" timestamp="1593986624915">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="541" y="280" width="611" height="490" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1593303065213" />
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1593297646417">
+    <state x="541" y="280" width="611" height="490" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1593986624915" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1593995578845">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1593297646417" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1593995578845" />
   </component>
 </project>
