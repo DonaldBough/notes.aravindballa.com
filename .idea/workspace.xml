@@ -4,11 +4,6 @@
     <list default="true" id="9d04f825-6bfb-41fa-98a7-815ba93bfd53" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/gradgrid-job-board.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/gradgrid-job-board.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/gradgrid.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/gradgrid.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gatsby-theme-andy/components/BrainNote.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/gatsby-theme-andy/components/BrainNote.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gatsby-theme-andy/components/BrainNoteContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/gatsby-theme-andy/components/BrainNoteContainer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +57,7 @@
       <workItem from="1591578330875" duration="1004000" />
       <workItem from="1593297531378" duration="1049000" />
       <workItem from="1593431353457" duration="272000" />
-      <workItem from="1593985551060" duration="5147000" />
+      <workItem from="1593985551060" duration="5322000" />
     </task>
     <servers />
   </component>
@@ -106,9 +101,9 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="541" y="280" width="611" height="490" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1593986624915" />
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1593995578845">
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1594079107732">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1593995578845" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1594079107732" />
   </component>
 </project>
