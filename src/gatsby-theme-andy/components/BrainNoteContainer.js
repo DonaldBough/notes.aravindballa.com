@@ -67,61 +67,73 @@ const BrainNotesContainer = ({ slug, note, location, siteMetadata }) => {
   });
 
   return (
-    <div className="text-gray-900 flex flex-col min-h-screen h-screen">
-      <Helmet>
-        <meta charSet="utf-8" />
-        <title>
-          {note.title} - {siteMetadata.title}
-        </title>
-        <link rel="icon" href={favicon} />
-      </Helmet>
-      <header>
-        <div className="py-2 border-b px-4 ">
-          <Link to="/" className="no-underline font-semibold text-gray-900">
-            {siteMetadata.title}
-          </Link>
-          <Link to="/" className="no-underline text-gray-800 pl-16">
-            About these Notes
-          </Link>
-        </div>
-      </header>
+    <div>
+      <div>
+        <Helmet>
+          <meta property="og:site_name" content="Donald's Notes - It's In Progress" data-react-helmet="true"/>
+          <meta property="og:title" content="Donald's Notes - It's In Progress" data-react-helmet="true"/>
+          <meta property="og:description" content="I hope sharing these notes publicly will spark fun and interesting conversations in my existing friend group and anyone else out there." data-react-helmet="true"/>
+          <meta name="image" property="og:image" content="https://www.donaldbough.com/donald-typing-on-macbook.png" data-react-helmet="true"/>
+          <meta property="og:url" content="https://www.donaldbough.com" data-react-helmet="true"/>
+          <meta name="twitter:title" content="Donald's Notes - It's In Progress" data-react-helmet="true"/>
+          <meta name="twitter:description" content="I hope sharing these notes publicly will spark fun and interesting conversations in my existing friend group and anyone else out there." data-react-helmet="true"/>
+          <meta name="twitter:image" content="https://www.donaldbough.com/donald-typing-on-macbook.png" data-react-helmet="true"/>
+          <meta name="twitter:card" content="summary_large_image" data-react-helmet="true"/>
+          <title>
+            {note.title} - {siteMetadata.title}
+          </title>
+          <link rel="icon" href={favicon} />
+        </Helmet>
+      </div>
+      <div className="text-gray-900 flex flex-col min-h-screen h-screen">
+        <header>
+          <div className="py-2 border-b px-4 ">
+            <Link to="/" className="no-underline font-semibold text-gray-900">
+              {siteMetadata.title}
+            </Link>
+            <Link to="/" className="no-underline text-gray-800 pl-16">
+              About these Notes
+            </Link>
+          </div>
+        </header>
 
-      <div
-        className="flex-1 flex flex-grow overflow-x-hidden md:overflow-x-auto overflow-y-hidden"
-        ref={scrollContainer}
-      >
         <div
-          className="note-columns-container flex flex-grow transition-width duration-100"
-          style={{ width: NOTE_WIDTH * (stackedPages.length + 1) }}
+          className="flex-1 flex flex-grow overflow-x-hidden md:overflow-x-auto overflow-y-hidden"
+          ref={scrollContainer}
         >
-          <ContextProvider value={{ stackedPages, navigateToStackedPage }}>
-            {/* Render the first page */}
-            <StackedPageWrapper
-              PageIndexProvider={PageIndexProvider}
-              i={0}
-              slug={slug}
-              title={note.title}
-              overlay={stackedPageStates[slug] && stackedPageStates[slug].overlay}
-              obstructed={stackedPageStates[slug] && stackedPageStates[slug].obstructed}
-            >
-              <BrainNote note={note} />
-            </StackedPageWrapper>
-
-            {/* Render the stacked pages */}
-            {stackedPages.map((page, i) => (
+          <div
+            className="note-columns-container flex flex-grow transition-width duration-100"
+            style={{ width: NOTE_WIDTH * (stackedPages.length + 1) }}
+          >
+            <ContextProvider value={{ stackedPages, navigateToStackedPage }}>
+              {/* Render the first page */}
               <StackedPageWrapper
                 PageIndexProvider={PageIndexProvider}
-                i={i + 1}
-                key={page.slug}
-                slug={page.slug}
-                title={page.data.title}
-                overlay={stackedPageStates[page.slug] && stackedPageStates[page.slug].overlay}
-                obstructed={stackedPageStates[page.slug] && stackedPageStates[page.slug].obstructed}
+                i={0}
+                slug={slug}
+                title={note.title}
+                overlay={stackedPageStates[slug] && stackedPageStates[slug].overlay}
+                obstructed={stackedPageStates[slug] && stackedPageStates[slug].obstructed}
               >
-                <BrainNote note={page.data} />
+                <BrainNote note={note} />
               </StackedPageWrapper>
-            ))}
-          </ContextProvider>
+
+              {/* Render the stacked pages */}
+              {stackedPages.map((page, i) => (
+                <StackedPageWrapper
+                  PageIndexProvider={PageIndexProvider}
+                  i={i + 1}
+                  key={page.slug}
+                  slug={page.slug}
+                  title={page.data.title}
+                  overlay={stackedPageStates[page.slug] && stackedPageStates[page.slug].overlay}
+                  obstructed={stackedPageStates[page.slug] && stackedPageStates[page.slug].obstructed}
+                >
+                  <BrainNote note={page.data} />
+                </StackedPageWrapper>
+              ))}
+            </ContextProvider>
+          </div>
         </div>
       </div>
     </div>

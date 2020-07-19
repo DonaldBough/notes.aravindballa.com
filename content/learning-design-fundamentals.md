@@ -1,0 +1,80 @@
+---  
+title: Learning Design Fundamentals 🎨   
+---  
+
+I'm trying to get a grasp on the elements that make up good design. For my own projects I find myself copying a lot without being able to create things from scratch that look good.
+
+These notes were made in [Roam Research](https://roamresearch.com/) so that's why they're all in bullet points.
+- # Lessons
+    - # Fundamentals
+        - ## Use these primary elements to make something from scratch.
+            - ### Lines
+                - Lines can be curvy, thicker, wavy, textured, whatever. They make up unexpected things line fonts and shapes
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdonaldbough%2FWtstDbZQY0.png?alt=media&token=61e9796a-a559-4412-85e5-d9a7b47ad777)
+                - The can be used to group things together
+            - ### Form (3D shapes)
+                - Basic form can bring life to an otherwise boring design.
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdonaldbough%2FM008xD_T7p.png?alt=media&token=8b4f4634-5c98-4e0e-9d33-17772fdc7703)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdonaldbough%2Fb09S7BSzxz.png?alt=media&token=fc0811e1-fb69-49bb-8acd-5b0c3236592e)
+            - ### Texture
+                - Can bring a physical element to graphic design. But should also be used in moderation because it can become overwhelming
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdonaldbough%2FsE3N_VZint.png?alt=media&token=f923c120-0350-4f25-a21b-cf9c2e72a7cb)
+            - ### Balance
+                - Can be hard to grasp for beginners since it takes some gut instinct to see. 
+                - Balance can be done in symmetric or asymmetric designs. Part of it involves bringing attention to the right parts of your brochure, website, etc.
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdonaldbough%2FTZtpy0R3i2.png?alt=media&token=6a0ab73f-ce6f-4d04-a9a0-6fb59df31211)
+                - The Rule of Thirds
+                    - essentially breaks your 2D, rectangular canvas into a 3x3 grid, and suggests that you keep items you want at the focal point along those imaginary grid lines. The balance and texture images above demonstrate this nicely as well.
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdonaldbough%2FNi2E3DLctq.png?alt=media&token=3f878c4b-b0b4-4ce7-8857-fb7d63dc8675)
+                - Apparently this works because our eyes naturally follow a path, that closely goes along these gridlines, when we look at a design as well
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdonaldbough%2FvHqEcWpEXG.png?alt=media&token=ea636e12-670e-4f55-854e-a5226cd2ee88)
+            - images and lessons from this [youtube video](https://www.youtube.com/watch?v=YqQx75OPRa0).
+        - ## Every element and area of your website should check off these off:
+            - ### Compassionate
+                - This one was added by myself. Design should be playful, fun, and humane to use. It is used by humans afterall.
+            - ### Color and contrast
+            - ### Scale
+            - ### Proximity
+                - Also known as layout and composition, it includes __visual hierarchy__, __whitespace__, __consistency__, and __alignment__.
+                - Simply place items that belong to each other closer together. This helps make the design more clean and organized. Plus it will naturally incorporate __whitespace__
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdonaldbough%2FXXZzGYVNsz.png?alt=media&token=d0dd0cf6-3211-486e-8460-96e9ddd4a632)
+                - When starting your own design from scratch, imagine everything on a regular grid (don't forget about "The Rule of Thirds" though). This will allow you to naturally align elements, have __consistent__ __whitespace__ between them, making your design more organized and easier to navigate
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdonaldbough%2F3t3EWy9uIp.png?alt=media&token=2da973d9-7eaf-4ebf-af55-2a59032d0dd9)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdonaldbough%2Fn5DuSaSJyo.png?alt=media&token=4c859b91-7017-4cf9-a3e5-90a506cc12d8)
+                - More on layout and composition in this [youtube video](https://www.youtube.com/watch?v=a5KYlHNKQB8)
+            - ### Simplicity
+            - ### Typography
+                - It is simply how text looks, or the art of writing text.
+                - Serifs have the little fancy extra lines (serifs) on the ends of letters, sans serif is french for without serifs because they have no serifs. Serif fonts are better for books and fancy fonts, while sans serif is typically better for computers.
+                - Another category of font is display fonts, which can be broken down into either script, blackletter, uppercase, or just fancy. They're good in moderation to add some extra umph to your design.
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdonaldbough%2F-Ojyxweqb9.png?alt=media&token=bdf966b4-f7e4-4238-ab1f-eacdf655411b)
+                - Fonts can be mixed in with other fonts, but don't get too crazy with it. The rule of thumb is staying with 2 fonts. A lot can still be done with 2 fonts though. Take some inspiration from fonts around you to see what combinations of elements can add to great font design.
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdonaldbough%2FOWwZNqCvkX.png?alt=media&token=8e3ecfc5-28cf-48cf-bdcb-9b36e9f1434a)
+                    - 
+                - More typography terms that are good to know include:
+                    - **Hierarchy**
+                        - Guiding the reader's eye to whatever is important. Very similar to the concept of "Proximity"
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdonaldbough%2Fm5ag7AQZgx.png?alt=media&token=857d21f0-54f3-4fef-861b-7625317e217a)
+                    - **Leading**
+                        - It's the same thing as line spacing. The default is usually fine.
+                    - **Tracking**
+                        - The space between characters, which is also known as character spacing. Some fonts have a bad default for tracking, so you should feel free to play around with this.
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdonaldbough%2FF1eU_MYSfz.png?alt=media&token=d5474716-98c4-429a-b698-3641a3ec91bc)
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdonaldbough%2F-yXnySaLnH.png?alt=media&token=8803250a-ab5d-4007-b4c4-4a985e88d4c6)
+                    - **Kerning**
+                        - It's the spacing between specific letters. This isn't something you can adjust usually since it depends on the font. If a font has weird spacing between certain letters, just don't use it.
+            - The list came from this [youtube video](https://youtu.be/Ha_ooKAWAJI), some details and all screenshots come from GCFLearnFree.org's [youtube channel](https://www.youtube.com/channel/UCeYUHG6o0YguM-g23htdsSw) 
+        - ## Gestalt's Principles
+            - Nobody sees anything as individual elements, they're always seen as a group. This is the big picture that "Proximity" helps to enforce. Where "design is worth a thousand words". 
+            - Humans infer a lot of things in design. These principles are about knowing what that is and using it.
+            - Learned from this [youtube video](https://www.youtube.com/watch?v=FryaH599ec0).
+    - Random tips:
+        - Don't put elements too close to the border. There should be a lot of whitespace on the sides (whitespace)
+        - Color and contrast play into making titles, subtitles, and p text follow a hierarchy.
+        - {{[[TODO]]}} If I really wanted to improve my design, I could re-create websites I like as prototypes
+        - learned from the [same youtube video](https://youtu.be/Ha_ooKAWAJI) as the key design fundamentals
+    - Continue watching [here](https://youtu.be/a5KYlHNKQB8?t=184).
+- # Tools
+    - [Webflow](https://webflow.com/) seems to be a useful tool over hand crafting html/css. Watched a little bit from this [youtube video demo](https://www.youtube.com/watch?v=S67X-sfW0IA&feature=youtu.be).
+    - Neat drawing tool shared by [[David Perell]] where I could do something similar to [[Jack Butcher]]'s Visual Value designs on Twitter https://twitter.com/david_perell/status/1279924608674615297?s=21
+        - Example of one of [[Jack Butcher]]'s Visualize Value account designs: https://twitter.com/jackbutcher/status/1283130369957679105?s=20

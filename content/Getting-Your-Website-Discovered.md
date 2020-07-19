@@ -1,6 +1,7 @@
 ---  
 title: Getting Your Website Discovered 🔎  
 ---  
+After working on SEO, Google Rankings, and discoverability for a couple of companies I finally wrote my prcoess down. It's simple, and covers everything.
 - ## Beginning to End Simple Gameplan:
     - Here’s the high level summary of steps to follow. Look in SEO Checklist from Weebly for details.
         - Register a custom domain

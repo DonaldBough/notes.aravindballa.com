@@ -3,7 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="9d04f825-6bfb-41fa-98a7-815ba93bfd53" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Getting-Your-Website-Discovered.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Getting-Your-Website-Discovered.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Software-Craftsmanship.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Software-Craftsmanship.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/top-of-mind.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/top-of-mind.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scratch/using-calendars-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scratch/using-calendars-itsycal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gatsby-theme-andy/components/BrainNoteContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/gatsby-theme-andy/components/BrainNoteContainer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +41,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
       <recent name="$PROJECT_DIR$/src/images" />
       <recent name="$PROJECT_DIR$/src/gatsby-theme-andy/components" />
       <recent name="$PROJECT_DIR$/content" />
@@ -57,7 +64,8 @@
       <workItem from="1591578330875" duration="1004000" />
       <workItem from="1593297531378" duration="1049000" />
       <workItem from="1593431353457" duration="272000" />
-      <workItem from="1593985551060" duration="5322000" />
+      <workItem from="1593985551060" duration="6466000" />
+      <workItem from="1595112943718" duration="4764000" />
     </task>
     <servers />
   </component>
@@ -97,13 +105,13 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="100" y="100" width="1480" height="850" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1590885285580" />
-    <state x="541" y="280" width="611" height="490" key="find.popup" timestamp="1593986624915">
+    <state x="541" y="280" width="753" height="490" key="find.popup" timestamp="1595121472171">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="541" y="280" width="611" height="490" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1593986624915" />
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1594079107732">
+    <state x="541" y="280" width="753" height="490" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1595121472171" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1595121338230">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1594079107732" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1595121338230" />
   </component>
 </project>

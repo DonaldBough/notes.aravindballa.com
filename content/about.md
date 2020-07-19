@@ -8,15 +8,10 @@ Inspired by [Andy Matuschak](https://andymatuschak.org/), I've learned that writ
     
 I hope sharing these publicly will spark fun and interesting conversations in my existing friend group and anyone else out there. If something stands out, feel free to say hi. 👋
       
-Here's my current top of mind:    
-- Co-founding [[GradGrid]]        
-- Software craftsmanship      
-- Entrepreneurship      
-    
-✍ 📬️ Donald @ ([donaldbough@gmail.comemail](mailto:donaldbough@gmail.com), [Twitter](https://twitter.com/DonaldBough), [LinkedIn](https://www.linkedin.com/in/donaldbough/), [Github](http://github.com/DonaldBough/))    
+There's no straight way to navigate to my notes, they're all just linked together. But you can start at my [[top of mind]].
 
+
+✍ 📬️ Donald @ ([donaldbough@gmail.com](mailto:donaldbough@gmail.com), [Twitter](https://twitter.com/DonaldBough), [LinkedIn](https://www.linkedin.com/in/donaldbough/), [Github](http://github.com/DonaldBough/))
+        
 ---        
  This website is [open source](https://github.com/DonaldBough/notes.aravindballa.com), forked from [here](https://github.com/aravindballa/notes.aravindballa.com). Theme made by the amazing [Aravind Balla](https://aravindballa.com).
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTI3NTc0OTldfQ==
--->
