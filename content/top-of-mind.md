@@ -9,6 +9,7 @@ Let me know if you like anything, or want to learn more about something. My cont
 
 - I'm co-founding [[GradGrid]], a hometown centric platform. 
 - I think a lot about [[Software Craftsmanship]]
+- I'm making a [[robot-painter]]
 - [[Learning Design Fundamentals 🎨]]
 - [[How to IFH (Intern From Home) 👩‍💻👨‍💻]]
 - [[Getting Your Website Discovered 🔎]]

@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9d04f825-6bfb-41fa-98a7-815ba93bfd53" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/top-of-mind.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/top-of-mind.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +61,9 @@
       <workItem from="1593985551060" duration="6466000" />
       <workItem from="1595112943718" duration="4764000" />
       <workItem from="1595246123250" duration="9000" />
-      <workItem from="1597025458861" duration="928000" />
+      <workItem from="1597025458861" duration="1074000" />
+      <workItem from="1597062117030" duration="15000" />
+      <workItem from="1597629587926" duration="343000" />
     </task>
     <servers />
   </component>
